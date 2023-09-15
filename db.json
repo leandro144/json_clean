@@ -5,14 +5,16 @@
           "name": "Big Kit Feirinha (BANCADA COM CESTINHA)" ,
           "price": 215.98,
           "oldPrice": 315.99,
-          "image": "./assets/1.jpg"
+          "image": "./assets/1.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3441553947-big-kit-feirinha-_JM"
         },
         {
           "id": "94313762",
           "name": "Big Kit Maos a Obra Oficina - Brinquedo",
           "price": 215.98,
           "oldPrice": 315.99,
-          "image": "./assets/2.jpg"
+          "image": "./assets/2.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034479740-big-kit-mos-a-obra-oficina-_JM"
         },
         
         { 
@@ -34,7 +36,8 @@
           "name": "Bola De Futebol De Campo Colorida",
           "price": 53.98,
           "oldPrice": 73.99,
-          "image": "./assets/5.jpg"
+          "image": "./assets/5.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3445750943-bola-de-futebol-n-5-colorida-para-criancas-_JM"
         },
         {
           "id": "92601102",
@@ -69,7 +72,8 @@
           "name": "Boneca Col. Trufas Morango - Infantil",
           "price": 44.98,
           "oldPrice": 64.99,
-          "image": "./assets/10.jpg"
+          "image": "./assets/10.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034751942-boneca-morango-cheirinho-de-fruta-pupee-fg-_JM"
         },
         {
           "id": "94461431",
@@ -83,21 +87,24 @@
           "name": "Boneca Frutas Devertidas Abacaxi (S/CABELO)",
           "price": 62.98,
           "oldPrice": 82.99,
-          "image": "./assets/12.jpg"
+          "image": "./assets/12.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3441620785-boneca-cheirinho-de-fruta-pupee-sem-cabelo-abacaxi-fg-_JM"
         },
         {
           "id": "943137X8",
           "name": "Boneca Frutas Devertidas Maçã Verde(S/CABELO)",
           "price": 62.98,
           "oldPrice": 82.99,
-          "image": "./assets/13.jpg"
+          "image": "./assets/13.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034800154-boneca-pupee-cheirinho-de-fruta-maca-verde-_JM"
         },
         {
           "id": "93227802",
           "name": "Boneca Frutas Devertidas Melancia (S/CABELO)",
           "price": 62.98,
           "oldPrice": 82.99,
-          "image": "./assets/14.jpg"
+          "image": "./assets/14.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034801112-boneca-melancia-cheirinho-de-fruta-pupee-_JM"
         },
       
         {
@@ -120,14 +127,16 @@
           "name": "Boneca Sapekinha Coleção Negra",
           "price": 53.98,
           "oldPrice": 73.99,
-          "image": "./assets/17.jpg"
+          "image": "./assets/17.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3440322155-boneca-que-fala-sapekinha-negra-primeiros-sons-_JM"
         },
         {
           "id": "95876431",
           "name": "Boneca Sapekinha Faz Xixi - Brinquedo",
           "price": 80.98,
           "oldPrice": 109.99,
-          "image": "./assets/18.jpg"
+          "image": "./assets/18.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3440344987-boneca-beb-bebezo-sapekinha-primeiros-sons-meninas-coleco-_JM"
         },
        
         {
@@ -135,7 +144,8 @@
           "name": "Boneca Sapekinha Primeiros Sons Negra",
           "price": 80.98,
           "oldPrice": 109.99,
-          "image": "./assets/19.jpg"
+          "image": "./assets/19.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-3440322155-boneca-que-fala-sapekinha-negra-primeiros-sons-_JM"
         },
         {
           "id": "9465450M",
@@ -149,7 +159,8 @@
           "name": "Brincando Com Numeros - Brinquedo",
           "price": 26.99,
           "oldPrice": 49.99,
-          "image": "./assets/21.jpg"
+          "image": "./assets/21.jpg",
+        "link": "https://produto.mercadolivre.com.br/MLB-3440344987-boneca-beb-bebezo-sapekinha-primeiros-sons-meninas-coleco-_JM"
         },
         {
           "id": "95326905",
@@ -177,7 +188,8 @@
           "name": "Cafeteira Princesa Brinquedo Cafe Expresso",
           "price": 53.99,
           "oldPrice": 72.99,
-          "image": "./assets/25.jpg"
+          "image": "./assets/25.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034818922-cafeteira-princesa-brinquedo-_JM"
         },
       
         {
@@ -185,7 +197,8 @@
           "name": "Caminhão De Encaixes Tchuco Baby (BAU)",
           "price": 107.99,
           "oldPrice": 139.99,
-          "image": "./assets/26.jpg"
+          "image": "./assets/26.jpg",
+            "link": "https://produto.mercadolivre.com.br/MLB-4034795660-brinquedo-caminho-didatico-infantil-usual-brinquedos-_JM"
         },
        
         {
