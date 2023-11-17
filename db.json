@@ -7,7 +7,7 @@
      "name": "Vassoura Mileva Nativa c/cabo",
      "price":  "R$ 11,90" ,
      "oldPrice": "22,90",
-     "image": "../../public/assets/vassouras/nativa-preta.jpg",
+     "image": "../../../assets/vassouras/nativa-preta.jpg",
      "link": "https://produto.mercadolivre.com.br/MLB-3441697449-vassoura-mileva-nativa-c-cabo-_JM",
      "product": "20% off"
    },
@@ -17,7 +17,7 @@
       "name": "Vassoura Mileva Charmosa c/cabo",
       "price": "R$ 14,80",
       "oldPrice": "24,90",
-      "image": "../../public/assets/vassouras/charmosa-preta.jpg",
+      "image": "../../../assets/vassouras/charmosa-preta.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-3441737507-vassoura-mileva-charmosa-c-cabo-_JM",
       "product": "20% off"
    },
@@ -27,7 +27,7 @@
       "name": "Vassoura Mileva Pluma c/cabo",
       "price":  "R$ 15,50" ,
       "oldPrice": "28,50",
-      "image": "../../public/assets/vassouras/pluma.jpg",
+      "image": "../../../assets/vassouras/pluma.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-3442789721-vassoura-mileva-pluma-c-cabo-_JM",
       "product": "20% off"
    },
@@ -36,7 +36,7 @@
       "name": "Vassoura Mileva Safira c/cabo",
       "price":  "R$ 13,90" ,
       "oldPrice": "22,90",
-      "image": "../../public/assets/vassouras/safira-rosa.jpg",
+      "image": "../../../assets/vassouras/safira-rosa.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-3442815647-vassoura-mileva-safira-c-cabo-_JM",
       "product": "20% off"
    },
@@ -46,7 +46,7 @@
       "name": "Vassoura Mileva Pratica c/cabo",
       "price":  "R$ 13,00" ,
       "oldPrice": "20,90",
-      "image": "../../public/assets/vassouras/pratica-rosa.jpg",
+      "image": "../../../assets/vassouras/pratica-rosa.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-3442827673-vassoura-mileva-pratica-c-cabo-_JM",
       "product": "20% off"
    },
@@ -56,7 +56,7 @@
       "name": "Vassoura Mileva Mais Pratica c/cabo",
       "price":  "R$ 16,90" ,
       "oldPrice": "30,00",
-      "image": "../../public/assets/vassouras/pratica-rosa.jpg",
+      "image": "../../../assets/vassouras/pratica-rosa.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-3442890703-vassoura-mileva-mais-pratica-ccabo-_JM",
       "product": "20% off"
    },
@@ -65,7 +65,7 @@
       "name": "Vassoura Mileva Girassol c/cabo",
       "price":  "R$ 14,80" ,
       "oldPrice": "26,80",
-      "image": "../../public/assets/vassouras/girassol.jpg",
+      "image": "../../../assets/vassouras/girassol.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-4034921944-vassoura-mileva-girassol-c-cabo-_JM",
       "product": "20% off"
    },
@@ -74,7 +74,7 @@
       "name": "Vassoura Mileva Granfina c/cabo",
       "price":  "R$ 16,99" ,
       "oldPrice": "30,99",
-      "image": "../../public/assets/vassouras/granfina.png",
+      "image": "../../../assets/vassouras/granfina.png",
       "link": "https://produto.mercadolivre.com.br/MLB-4037627776-vassoura-mileva-granfina-c-cabo-_JM",
       "product": "20% off"
    },
@@ -84,7 +84,7 @@
       "name": "Vassourão Clássico Mileva c/cabp",
       "price":  "R$ 27,90" ,
       "oldPrice": "45,90",
-      "image": "../../public/assets/vassouras/vassourão.jpg",
+      "image": "../../../assets/vassouras/vassourão.jpg",
       "link": "https://produto.mercadolivre.com.br/MLB-4037906580-vassourao-classico-mileva-ccabo-_JM",
       "product": "20% off"
    }
