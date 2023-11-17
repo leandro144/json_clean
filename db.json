@@ -1,234 +1,93 @@
+
 {
-    "Toys":  [
-        {
-          "id": "94313731",
-          "name": "Big Kit Feirinha (BANCADA COM CESTINHA)" ,
-          "price": 215.98,
-          "oldPrice": 315.99,
-          "image": "./assets/1.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3441553947-big-kit-feirinha-_JM"
-        },
-        {
-          "id": "94313762",
-          "name": "Big Kit Maos a Obra Oficina - Brinquedo",
-          "price": 215.98,
-          "oldPrice": 315.99,
-          "image": "./assets/2.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034479740-big-kit-mos-a-obra-oficina-_JM"
-        },
-        
-        { 
-          "id": "943137XQ",
-          "name": "Blocos De Brincar - TCHUCO BLOCKS SACO PVC",
-          "price": 125.98,
-          "oldPrice": 225.99,
-          "image": "./assets/3.jpg"
-        },
-        {
-          "id": "95077714",
-          "name": "Bola De Futebol Eva Infantil / Copa",
-          "price": 35.98,
-          "oldPrice": 55.98,
-          "image": "./assets/4.jpg"
-        },
-        {
-          "id": "9507779N",
-          "name": "Bola De Futebol De Campo Colorida",
-          "price": 53.98,
-          "oldPrice": 73.99,
-          "image": "./assets/5.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3445750943-bola-de-futebol-n-5-colorida-para-criancas-_JM"
-        },
-        {
-          "id": "92601102",
-          "name": "Boneca Col. Best Friends Mini Menina",
-          "price": 44.98,
-          "oldPrice": 69.99,
-          "image": "./assets/6.jpg"
-        },
-        {
-          "id": "9465450R",
-          "name": "Boneca Col. Best Friends Mini Menino",
-          "price": 44.98,
-          "oldPrice": 69.99,
-          "image": "./assets/7.jpg"
-        },
-        {
-          "id": "95004531",
-          "name": "Boneca Col. Trufas Banana - Infantil",
-          "price": 44.98,
-          "oldPrice": 64.99,
-          "image": "./assets/8.jpg"
-        },
-        {
-          "id": "94672705",
-          "name": "Boneca Col. Trufas Chocolate - Infantil",
-          "price": 44.98,
-          "oldPrice": 64.99,
-          "image": "./assets/9.jpg"
-        },
-        {
-          "id": "92456602",
-          "name": "Boneca Col. Trufas Morango - Infantil",
-          "price": 44.98,
-          "oldPrice": 64.99,
-          "image": "./assets/10.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034751942-boneca-morango-cheirinho-de-fruta-pupee-fg-_JM"
-        },
-        {
-          "id": "94461431",
-          "name": "Boneca Col. Trufas Uva - Infantil",
-          "price": 44.98,
-          "oldPrice": 64.99,
-          "image": "./assets/11.jpg"
-        },
-        {
-          "id": "95850662",
-          "name": "Boneca Frutas Devertidas Abacaxi (S/CABELO)",
-          "price": 62.98,
-          "oldPrice": 82.99,
-          "image": "./assets/12.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3441620785-boneca-cheirinho-de-fruta-pupee-sem-cabelo-abacaxi-fg-_JM"
-        },
-        {
-          "id": "943137X8",
-          "name": "Boneca Frutas Devertidas Maçã Verde(S/CABELO)",
-          "price": 62.98,
-          "oldPrice": 82.99,
-          "image": "./assets/13.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034800154-boneca-pupee-cheirinho-de-fruta-maca-verde-_JM"
-        },
-        {
-          "id": "93227802",
-          "name": "Boneca Frutas Devertidas Melancia (S/CABELO)",
-          "price": 62.98,
-          "oldPrice": 82.99,
-          "image": "./assets/14.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034801112-boneca-melancia-cheirinho-de-fruta-pupee-_JM"
-        },
-      
-        {
-          "id": "95150929",
-          "name": "Boneca Frutas Devertidas Morango (S/CABELO)",
-          "price": 62.98,
-          "oldPrice": 82.99,
-          "image": "./assets/15.jpg"
-        },
-        {
-          "id": "95870805",
-          "name": "Boneca Sapekinha Coleção - Brinquedo",
-          "price": 53.98,
-          "oldPrice": 73.99,
-          "image": "./assets/16.jpg"
-        },
-      
-        {
-          "id": "94672719",
-          "name": "Boneca Sapekinha Coleção Negra",
-          "price": 53.98,
-          "oldPrice": 73.99,
-          "image": "./assets/17.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3440322155-boneca-que-fala-sapekinha-negra-primeiros-sons-_JM"
-        },
-        {
-          "id": "95876431",
-          "name": "Boneca Sapekinha Faz Xixi - Brinquedo",
-          "price": 80.98,
-          "oldPrice": 109.99,
-          "image": "./assets/18.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3440344987-boneca-beb-bebezo-sapekinha-primeiros-sons-meninas-coleco-_JM"
-        },
-       
-        {
-          "id": "946545OX",
-          "name": "Boneca Sapekinha Primeiros Sons Negra",
-          "price": 80.98,
-          "oldPrice": 109.99,
-          "image": "./assets/19.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-3440322155-boneca-que-fala-sapekinha-negra-primeiros-sons-_JM"
-        },
-        {
-          "id": "9465450M",
-          "name": "Boneca Sapekinha Primeiros Sons",
-          "price": 80.98,
-          "oldPrice": 109.99,
-          "image": "./assets/20.jpg"
-        },
-        {
-          "id": "95939145",
-          "name": "Brincando Com Numeros - Brinquedo",
-          "price": 26.99,
-          "oldPrice": 49.99,
-          "image": "./assets/21.jpg",
-        "link": "https://produto.mercadolivre.com.br/MLB-3440344987-boneca-beb-bebezo-sapekinha-primeiros-sons-meninas-coleco-_JM"
-        },
-        {
-          "id": "95326905",
-          "name": "Brincando e Aprendendo Numeros 25pc",
-          "price": 17.99,
-          "oldPrice": 29.99,
-          "image": "./assets/22.jpg"
-        },
-        {
-          "id": "951509X8",
-          "name": "Cadeira Toy Blocos - Defensores 24pcs",
-          "price": 107.99,
-          "oldPrice": 139.99,
-          "image": "./assets/23.jpg"
-        },
-        {
-          "id": "9515093X",
-          "name": "Cadeira Toy Blocos - Princesas 24pcs",
-          "price": 107.99,
-          "oldPrice": 139.99,
-          "image": "./assets/24.jpg"
-        },
-        {
-          "id": "9590484W",
-          "name": "Cafeteira Princesa Brinquedo Cafe Expresso",
-          "price": 53.99,
-          "oldPrice": 72.99,
-          "image": "./assets/25.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034818922-cafeteira-princesa-brinquedo-_JM"
-        },
-      
-        {
-          "id": "9465459P",
-          "name": "Caminhão De Encaixes Tchuco Baby (BAU)",
-          "price": 107.99,
-          "oldPrice": 139.99,
-          "image": "./assets/26.jpg",
-            "link": "https://produto.mercadolivre.com.br/MLB-4034795660-brinquedo-caminho-didatico-infantil-usual-brinquedos-_JM"
-        },
-       
-        {
-          "id": "94876962",
-          "name": "Carro Old Car Fuka Bala Diversos",
-          "price": 44.99,
-          "oldPrice": 69.99,
-          "image": "./assets/27.jpg"
-        },
-        {
-          "id": "94313703",
-          "name": "Carro Split Car Polícia e Resgate - BS TOYS",
-          "price": 44.99,
-          "oldPrice": 69.99,
-          "image": "./assets/29.jpg"
-        },
-        
-        {
-          "id": "93761902",
-          "name": "Coleção Fundo do Mar - POLVO",
-          "price": 53.99,
-          "oldPrice": 75.99,
-          "image": "./assets/30.jpg"
-        },
-        {
-          "id": "95150919",
-          "name": "Esconde Esconde Abelhinha Primma",
-          "price": 80.98,
-          "oldPrice": 105.99,
-          "image": "./assets/31.jpg"
-        }
-      ]
+  "products_clear": [
+
+ {
+     "id": "94313762",
+     "name": "Vassoura Mileva Nativa c/cabo",
+     "price":  "R$ 11,90" ,
+     "oldPrice": "22,90",
+     "image": "../../public/assets/vassouras/nativa-preta.jpg",
+     "link": "https://produto.mercadolivre.com.br/MLB-3441697449-vassoura-mileva-nativa-c-cabo-_JM",
+     "product": "20% off"
+   },
+   
+   { 
+      "id": "943137XQ",
+      "name": "Vassoura Mileva Charmosa c/cabo",
+      "price": "R$ 14,80",
+      "oldPrice": "24,90",
+      "image": "../../public/assets/vassouras/charmosa-preta.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-3441737507-vassoura-mileva-charmosa-c-cabo-_JM",
+      "product": "20% off"
+   },
+
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Pluma c/cabo",
+      "price":  "R$ 15,50" ,
+      "oldPrice": "28,50",
+      "image": "../../public/assets/vassouras/pluma.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-3442789721-vassoura-mileva-pluma-c-cabo-_JM",
+      "product": "20% off"
+   },
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Safira c/cabo",
+      "price":  "R$ 13,90" ,
+      "oldPrice": "22,90",
+      "image": "../../public/assets/vassouras/safira-rosa.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-3442815647-vassoura-mileva-safira-c-cabo-_JM",
+      "product": "20% off"
+   },
+
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Pratica c/cabo",
+      "price":  "R$ 13,00" ,
+      "oldPrice": "20,90",
+      "image": "../../public/assets/vassouras/pratica-rosa.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-3442827673-vassoura-mileva-pratica-c-cabo-_JM",
+      "product": "20% off"
+   },
+
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Mais Pratica c/cabo",
+      "price":  "R$ 16,90" ,
+      "oldPrice": "30,00",
+      "image": "../../public/assets/vassouras/pratica-rosa.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-3442890703-vassoura-mileva-mais-pratica-ccabo-_JM",
+      "product": "20% off"
+   },
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Girassol c/cabo",
+      "price":  "R$ 14,80" ,
+      "oldPrice": "26,80",
+      "image": "../../public/assets/vassouras/girassol.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-4034921944-vassoura-mileva-girassol-c-cabo-_JM",
+      "product": "20% off"
+   },
+   {
+      "id": "94313762",
+      "name": "Vassoura Mileva Granfina c/cabo",
+      "price":  "R$ 16,99" ,
+      "oldPrice": "30,99",
+      "image": "../../public/assets/vassouras/granfina.png",
+      "link": "https://produto.mercadolivre.com.br/MLB-4037627776-vassoura-mileva-granfina-c-cabo-_JM",
+      "product": "20% off"
+   },
+ 
+   {
+      "id": "94313762",
+      "name": "Vassourão Clássico Mileva c/cabp",
+      "price":  "R$ 27,90" ,
+      "oldPrice": "45,90",
+      "image": "../../public/assets/vassouras/vassourão.jpg",
+      "link": "https://produto.mercadolivre.com.br/MLB-4037906580-vassourao-classico-mileva-ccabo-_JM",
+      "product": "20% off"
+   }
+]
+
 }
